@@ -379,7 +379,7 @@ https://liveanevia.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangs
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/tHbDn4C/Indosiar.png"group-title="INDONESIA",INDOSIAR
 https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZDBlMjMyZDctMzkxYS0zMjg5LTk3ZmItMmZhZjNjMmVkZDUz
+#KODIPROP:inputstream.adaptive.license_key=etslive-2-vidio-com.akamaized.net/?deviceId=7c261ad7-be82-42fd-aa3c-555e3559a69b
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/H7Wf354/SCTV.png"group-title="INDONESIA",SCTV
 https://etslive-2-vidio-com.akamaized.net:443/exp=1674775382~acl=/hls-p/ingest_204_*/*~hmac=c45df5447364dc38e8945cc535cea8d195373f561919c35351640c282fbe83c2/hls-p/ingest_204_720p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -488,8 +488,8 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 
 
 #EXTM3U
-#EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 1
-http://36.37.252.114:888/Apple/OneTV-001/playlist.m3u8
+#EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", sctvv
+https://etslive-2-vidio-com.akamaized.net:443/exp=1674775382~acl=/hls-p/ingest_204_*/*~hmac=c45df5447364dc38e8945cc535cea8d195373f561919c35351640c282fbe83c2/hls-p/ingest_204_720p/index.m3u8
 #EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 2
 http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
 #EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 3
