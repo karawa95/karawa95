@@ -488,10 +488,10 @@ https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.m
 
 
 #EXTM3U
-#EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", sctvv
+#EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", sctv
 https://etslive-2-vidio-com.akamaized.net:443/exp=1674775382~acl=/hls-p/ingest_204_*/*~hmac=c45df5447364dc38e8945cc535cea8d195373f561919c35351640c282fbe83c2/hls-p/ingest_204_720p/index.m3u8
-#EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 2
-http://36.37.252.114:888/Apple/OneTV-002/playlist.m3u8
+#EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", indosiar
+https://etslive-2-vidio-com.akamaized.net:443/exp=1674778981~acl=/hls-p/ingest_205_*/*~hmac=696cd61c48c89657e3b3aadc0fd6d83bc87e988b946e6724dd6119c2bad159e9/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 3
 http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
 #EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 4
