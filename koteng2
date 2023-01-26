@@ -493,7 +493,7 @@ https://etslive-2-vidio-com.akamaized.net:443/exp=1674775382~acl=/hls-p/ingest_2
 #EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", indosiar
 https://etslive-2-vidio-com.akamaized.net:443/exp=1674778981~acl=/hls-p/ingest_205_*/*~hmac=696cd61c48c89657e3b3aadc0fd6d83bc87e988b946e6724dd6119c2bad159e9/hls-p/ingest_205_720p/index.m3u8
 #EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 3
-http://36.37.252.114:888/Apple/OneTV-003/playlist.m3u8
+https://liveaneviadev.mncnow.id:443/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 #EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 4
 http://36.37.252.114:888/Apple/OneTV-004/playlist.m3u8
 #EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 5
@@ -510,7 +510,7 @@ http://36.37.252.114:888/Apple/OneTV-009/playlist.m3u8
 http://36.37.252.114:888/Apple/OneTV-010/playlist.m3u8
 #EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 11
 http://36.37.252.114:888/Apple/OneTV-011/playlist.m3u8
-#EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 12
+#EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 12r
 http://36.37.252.114:888/Apple/OneTV-012/playlist.m3u8
 #EXTINF:-1 group-title=" Mi " tvg-logo="https://i.postimg.cc/s2HD18GG/vtv1hd.png", kenh 13
 http://36.37.252.114:888/Apple/OneTV-013/playlist.m3u8
