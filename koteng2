@@ -6,7 +6,7 @@ https://liveaneviadev.mncnow.id:443/live/eds/PemersatuBangsa/sa_dash_vmx/Pemersa
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjMghZl1TDjGNEqTXdC6e2np-miNEya8a1gA&usqp=CAU"group-title="INDONESIA",TVRI 2
-http://birutv.my.id:80/dassdvr/133/tvri/segment_ctvideo_cfm4s_ridp0va0br960000_cs450037890000_w382807826_qRFZS_mpd.m4s
+http://birutivi.my.id:80/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHq9eig5hXP4ScTC72Zoz1jZAfOhQqRVBoA&usqp=CAU"group-title="INDONESIA",INDOSIAR
 https://etslive-2-vidio-com.akamaized.net:443/exp=1674778981~acl=/hls-p/ingest_205_*/*~hmac=696cd61c48c89657e3b3aadc0fd6d83bc87e988b946e6724dd6119c2bad159e9/hls-p/ingest_205_720p/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
