@@ -48,9 +48,8 @@ https://liveaneviadev.mncnow.id:443/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/6/62/Trans_TV_2013.svg/1280px-Trans_TV_2013.svg.png" group-title="INDONESIA",Trans TV 2
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=http://conn.livetvgo.my.id:80/vidio/trans7.mpd?token=UllnDOEE9zvSOZhORyGweQ==
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/fMtzr75/trans7.png"group-title="INDONESIA",TRANS'7
-https://etslive-2-vidio-com.akamaized.net/exp=1675021170~acl=/vp9/734_stream.mpd!/vp9/734/*!/vp9/*/734_stream.mpd!/vp9/*/734/*~hmac=64450cff4edad220a46e6fb32d89ab638ac1c032b1197a476273e9f05c657d64/vp9/734_stream.mpd
+https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w1906544003_b744100_sleng.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 KODIPROP:inputstream.adaptive.license_key=http://conn.livetvgo.my.id:80/vidio/trans7.mpd?token=UllnDOEE9zvSOZhORyGweQ==
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/fMtzr75/trans7.png"group-title="INDONESIA",TRANS'7 2
