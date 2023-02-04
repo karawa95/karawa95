@@ -46,9 +46,9 @@ https://liveaneviadev.mncnow.id:443/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/pzC7Ddb/TransTV.png"group-title="INDONESIA",TRANS'TV
 https://liveaneviadev.mncnow.id:443/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-KODIPROP:inputstream.adaptive.license_key=http://livetvgo.masuk.id:80/usee/trans7.m3u8?token=IDy96MUywaXHAgmC2RHTQw==
+KODIPROP:inputstream.adaptive.license_key=http://conn.livetvgo.my.id:80/vidio/trans7.mpd?token=UllnDOEE9zvSOZhORyGweQ==
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/fMtzr75/trans7.png"group-title="INDONESIA",TRANS'7
-https://video.detik.com:443/trans7/smil:trans7.smil/chunklist_w132903843_b744100_sleng.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1675021170~acl=/vp9/734_stream.mpd!/vp9/734/*!/vp9/*/734_stream.mpd!/vp9/*/734/*~hmac=64450cff4edad220a46e6fb32d89ab638ac1c032b1197a476273e9f05c657d64/vp9/734_stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
 #EXTINF:-1 group-title="PREMIUM"tvg-logo="https://i.ibb.co/fYYcrBh/TVONE.png"group-title="INDONESIA",TV'ONE
